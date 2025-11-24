@@ -125,7 +125,7 @@ resource avmMcpServerContainerApp 'Microsoft.App/containerApps@2023-11-02-previe
       ingress: {
         external: true
         targetPort: 8080
-        allowInsecure: false
+        allowInsecure: true
         transport: 'http'
       }
       registries: [
@@ -184,7 +184,7 @@ resource pricingMcpServerContainerApp 'Microsoft.App/containerApps@2023-11-02-pr
       ingress: {
         external: true
         targetPort: 8080
-        allowInsecure: false
+        allowInsecure: true
         transport: 'http'
       }
       registries: [
