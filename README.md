@@ -248,10 +248,6 @@ Contributions are welcome! Areas for enhancement:
 
 *Have you become a 10x CSA using these tools? Share your story by opening an issue or PR!*
 
-## 📄 License
-
-[Your License Here]
-
 ## 🙋‍♂️ Support
 
 For issues, questions, or feedback:
