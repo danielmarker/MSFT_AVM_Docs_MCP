@@ -21,6 +21,8 @@ def run_command(command, description):
         return result.stdout
     except subprocess.CalledProcessError as e:
         print(f"❌ Error: {e.stderr}")
+        if e.stdout:
+            print(f"📋 Output: {e.stdout}")
         raise
 
 
