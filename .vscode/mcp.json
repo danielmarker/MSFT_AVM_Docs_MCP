@@ -10,15 +10,16 @@
     },
     "avm-modules": {
       "type": "http",
-      "url": "https://aca-avm-modules-7lsy3ktbwwv4k.yellowgrass-fe297f24.uksouth.azurecontainerapps.io/mcp"
+      "url": "https://aca-avm-modules-2sgswcz45eubq.politesea-56a66306.uksouth.azurecontainerapps.io/mcp"
     },
     "azure-pricing": {
       "type": "http",
-      "url": "https://aca-azure-pricing-7lsy3ktbwwv4k.yellowgrass-fe297f24.uksouth.azurecontainerapps.io/mcp"
+      "url": "https://aca-azure-pricing-2sgswcz45eubq.politesea-56a66306.uksouth.azurecontainerapps.io/mcp"
     },
     "markitdown": {
       "type": "http",
-      "url": "https://aca-markitdown-7lsy3ktbwwv4k.yellowgrass-fe297f24.uksouth.azurecontainerapps.io/mcp"
+      "url": "https://aca-markitdown-2sgswcz45eubq.politesea-56a66306.uksouth.azurecontainerapps.io/mcp"
+
     }
   }
 }
